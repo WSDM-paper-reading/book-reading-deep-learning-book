@@ -4,9 +4,9 @@
 
 - 建议参与成员要做的事情
 
-   - 汇报人：讨论前精读书和作者提供的ppt(8hours)，提前准备讲解ppt(直接使用作者的ppt)，并和组内人讨论细节
-   - 汇报组非汇报人：精读一章(8hours)，和汇报人讨论细节
-   - 非汇报组：讨论前粗读该章（4hours），讨论后再继续精读（4hours）
+ * 汇报人：讨论前精读书和作者提供的ppt(8hours)，提前准备讲解ppt(直接使用作者的ppt)，并和组内人讨论细节
+ * 汇报组非汇报人：精读一章(8hours)，和汇报人讨论细节
+ * 非汇报组：讨论前粗读该章（4hours），讨论后再继续精读（4hours）
 
 
 deeplearning book info: [book](http://www.deeplearningbook.org/) [ppt](http://www.deeplearningbook.org/lecture_slides.html)
