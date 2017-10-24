@@ -21,8 +21,9 @@ general and deep learning in particular.The online version of the book is now co
 
 拟分组：
 1. 曾玮 冯悦 于思皓 
-2. 侯林芳 倪艺涵 郭彤蕾
-3. 肖岩 杨州 苏立新
+2. 肖岩 杨州 苏立新
+3. 侯林芳 倪艺涵 郭彤蕾
+
 
 |时间|活动|主讲人员|内容|
 |---|---|---|---|
