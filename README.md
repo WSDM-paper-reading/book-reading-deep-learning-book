@@ -11,10 +11,6 @@
 
 deeplearning book info: [book](http://www.deeplearningbook.org/) [ppt](http://www.deeplearningbook.org/lecture_slides.html)
 
-The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in
-general and deep learning in particular.The online version of the book is now complete and will remain available online for free.
-
-鉴于大家对阅读该书的需求程度不同，且期望大家投入时间较多，所以请大家考虑后报名第一期，报名方式在群内回复参与第一期即可，组队根据后边报名人数确定。
 
 
 第一期报名人员： 曾玮，肖岩， 侯林芳， 于思皓， 倪艺涵， 冯悦， 杨州， 郭彤蕾， 苏立新
