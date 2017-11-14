@@ -23,7 +23,8 @@
 |时间|活动|主讲人员|内容|
 |---|---|---|---|
 2017/10/31  7:00pm | 第一次讨论  | 第一组 | Part II  6 Deep Feedforward Networks |
-2017/11/07  7:00pm | 第二次讨论  | 第二组 | Part II  7 Regularization for Deep Learning |
+2017/11/14  7:00pm | 第二次讨论  | 第二组 | Part II  7 Regularization for Deep Learning |
+
 ### note
 - ppt利用作者提供即可，不用自己做，主讲人主要是把书仔细读下来，主讲人组内抽签决定。
 - 建议大家读英文的书籍
